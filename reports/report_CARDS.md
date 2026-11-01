@@ -26,7 +26,7 @@ For Solana-based holder information, on-chain data can be explored via the proje
 
 > **Note:** This section is only applicable to BNB Smart Chain tokens. As Collector Crypt ($CARDS) operates on the Solana blockchain, the standard BNB-focused security analytics pipeline is **not applicable**. Data not available for this section.
 
-However, it is important to note that CoinGecko displays a **public notice** regarding the token contract, citing data from **Rugcheck.xyz**. The notice states: *"According to Rugcheck.xyz, the contract creator can make changes to the token contract such as contract metadata, disabling sells, changing fees, unrestrictive minting of more tokens, transferring tokens etc. Exercise caution."*
+However, specifically, CoinGecko displays a **public notice** regarding the token contract, citing data from **Rugcheck.xyz**. The notice states: *"According to Rugcheck.xyz, the contract creator can make changes to the token contract such as contract metadata, disabling sells, changing fees, unrestrictive minting of more tokens, transferring tokens etc. Exercise caution."*
 
 This represents a **significant risk factor** that investors should carefully evaluate. The ability of the contract creator to modify critical parametersâincluding the potential to disable sells or mint additional tokensâintroduces counterparty risk that is not present in fully immutable or renounced contracts. While this does not confirm malicious intent, it does mean that the project team retains substantial control over the token's mechanics, and users should factor this into their risk assessment.
 
